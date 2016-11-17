@@ -1,0 +1,3 @@
+Executar passando o arquivo de texto como o primeiro argumento.
+
+- Não julguei necessário criar um manifest ou jar, mas posso fazê-lo.
